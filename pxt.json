@@ -1,5 +1,5 @@
 {
-    "name": "Niveau sonore simple",
+    "name": "Niveau sonore conditionnel",
     "description": "",
     "dependencies": {
         "core": "*",
