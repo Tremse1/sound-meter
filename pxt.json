@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Niveau sonore conditionnel": "github:tremse1/sound-meter#df61086c33db7d7d608c033bb373e1fb9d26f3b9"
     },
     "files": [
         "main.blocks",
